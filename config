@@ -1,0 +1,10 @@
+# UMich Github
+Host github
+	HostName github.com
+	User git
+
+# Caen
+Host caen
+	HostName login.engin.umich.edu
+	User cdgrubbs
+	Compression yes
