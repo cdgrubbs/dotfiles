@@ -1,0 +1,6 @@
+[user]
+	name = cdgrubbs
+	email = cdgrubbs@umich.edu
+[core]
+	editor = nano
+	autocrlf = input
